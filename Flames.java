@@ -9,7 +9,7 @@ class Flames
         
         
         Scanner sc=new Scanner(System.in);
-        System.out.println("enter your name:");
+        System.out.println("enter your name!!:");
         StringBuilder a=new StringBuilder(sc.nextLine());
         System.out.println("enter your partner name:");
         StringBuilder b=new StringBuilder(sc.nextLine());
